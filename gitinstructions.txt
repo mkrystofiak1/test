@@ -1,0 +1,7 @@
+1. git init
+2. edit files, or have files
+3. git add
+4. git commit -m "message"
+5. may need to git config user.name "username"
+6. may need to git config user.email "email"
+7. git push -u origin "name" 
