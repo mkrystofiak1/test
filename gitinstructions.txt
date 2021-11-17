@@ -4,4 +4,5 @@
 4. git commit -m "message"
 5. may need to git config user.name "username"
 6. may need to git config user.email "email"
-7. git push -u origin "name" 
+7. git remote add origin "link to repository"
+8. git push -u origin "name" 
